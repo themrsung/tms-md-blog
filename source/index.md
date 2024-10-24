@@ -1,10 +1,10 @@
 -----------------------------------------------------------------------------
-github     : https://github.com/casualwriter/casual-markdown-blog
+github     : https://github.com/themrsung/
 title      : Casual-Markdown's Blog 
 subtitle   : Simple is the best
 nav-group  : featured, new-3, tags, months
 nav-width  : 320px
-css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
+css-header : background:linear-gradient(to bottom right, #ff2e01, #2e2727); color:white
 menu       : 
    Home    : ?
    github  : https://github.com/casualwriter/casual-markdown-blog
