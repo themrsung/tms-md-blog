@@ -1,13 +1,13 @@
 -----------------------------------------------------------------------------
 github     : https://github.com/themrsung/
-title      : Casual-Markdown's Blog 
-subtitle   : Simple is the best
+title      : blog.themrsung.com
+subtitle   : The 21st century Artlier.
 nav-group  : featured, new-3, tags, months
 nav-width  : 320px
 css-header : background:linear-gradient(to bottom right, #ff2e01, #2e2727); color:white
 menu       : 
-   Home    : ?
-   github  : https://github.com/casualwriter/casual-markdown-blog
+   Home    : https://themrsung.com/
+   Blog    : ?
    Dark    : javascript:darkmode()
    About   : ?page=about.md
 -----------------------------------------------------------------------------
