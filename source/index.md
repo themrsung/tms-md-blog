@@ -44,6 +44,10 @@ h1 { border-bottom:1px dotted grey }
 
 # Archives
 
+### Oct 2024
+
+* 2024/10/24: [themrsung.com](20241024-themrsung.com.md) { #markdown }
+
 ### Sep 2022
 
 * 2022/09/28: [Build online resume by markdown](20220927-markdown-as-resume.md) { #markdown }
